@@ -1,0 +1,2 @@
+# imgStorage
+goods pic
