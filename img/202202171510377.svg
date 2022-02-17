@@ -1,0 +1,14 @@
+<svg width="350" height="20" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{opacity:0.6;}</style>
+ </defs>
+ <title>资源 1</title>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(0.710278431760031,0,0,0.5185185047211469,-8.410040387083725,9.293402386337725) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="9.109375" x="32.5" stroke-width="0" fill="#000000">访问源字典（SRCDICT）www.srcdict.com</text>
+ </g>
+</svg>
