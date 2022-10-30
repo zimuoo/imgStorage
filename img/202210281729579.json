@@ -9,7 +9,7 @@
 	"group": "",
 	"isActive": true,
 	"reverseOrder": false
-},
+  },
   {
     "id": 2,
     "key": "bttcj",
@@ -57,5 +57,16 @@
     "isActive": true,
     "status": "可用",
     "reverseOrder": false
+  },
+  {
+	"key": "wujin",
+	"id": 6,
+	"name": "无尽",
+	"api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
+	"download": "",
+	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+	"group": "",
+	"isActive": true,
+	"reverseOrder": false
   }
 ]
