@@ -68,16 +68,5 @@
 	"group": "",
 	"isActive": true,
 	"reverseOrder": false
-  },
-  {
-	"key": "nuoxun",
-	"id": 7,
-	"name": "诺讯",
-	"api": "https://caiji.nxflv.com/api.php/provide/vod/at/xml/",
-	"download": "",
-	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
-	"group": "",
-	"isActive": true,
-	"reverseOrder": false
   }
 ]
