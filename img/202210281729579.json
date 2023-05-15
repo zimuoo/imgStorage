@@ -35,7 +35,7 @@
     "reverseOrder": false
   },
   {
-    "id": 5,
+    "id": 4,
     "key": "wmcj8",
     "name": "环亚资源",
     "api": "http://wmcj8.com/inc/sapi.php",
@@ -48,7 +48,7 @@
   },
   {
 	"key": "wujin",
-	"id": 6,
+	"id": 5,
 	"name": "无尽",
 	"api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
 	"download": "",
@@ -59,7 +59,7 @@
   },
    {
 	"key": "jinying",
-	"id": 7,
+	"id": 6,
 	"name": "金鹰",
 	"api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
 	"download": "",
@@ -70,7 +70,7 @@
   },
 	{
 	"key": "shayu",
-	"id": 8,
+	"id": 7,
 	"name": "鲨鱼",
 	"api": "https://shayuapi.com/api.php/provide/vod/from/sym3u8/at/xml/",
 	"download": "",
@@ -81,7 +81,7 @@
 	},
 	{
 	"key": "guangsu",
-	"id": 9,
+	"id": 8,
 	"name": "光速",
 	"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
 	"download": "",
