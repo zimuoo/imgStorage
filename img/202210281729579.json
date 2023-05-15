@@ -1,94 +1,103 @@
-[
-  {
-	"key": "lzm3u8",
-	"id": 1,
-	"name": "量子",
-	"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-	"download": "",
-	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
-	"group": "",
-	"isActive": true,
-	"reverseOrder": false
-  },
-  {
-    "id": 2,
-    "key": "bttcj",
-    "name": "BT天堂",
-    "api": "http://bttcj.com/inc/sapi.php",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "常用组",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 3,
-    "key": "lb",
-    "name": "乐播",
-    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "18禁",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-    "id": 4,
-    "key": "wmcj8",
-    "name": "环亚资源",
-    "api": "http://wmcj8.com/inc/sapi.php",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "18禁",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
-	"key": "wujin",
-	"id": 5,
-	"name": "无尽",
-	"api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
-	"download": "",
-	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
-	"group": "",
-	"isActive": true,
-	"reverseOrder": false
-  },
-   {
-	"key": "jinying",
-	"id": 6,
-	"name": "金鹰",
-	"api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
-	"download": "",
-	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
-	"group": "",
-	"isActive": true,
-	"reverseOrder": false
-  },
-	{
-	"key": "shayu",
-	"id": 7,
-	"name": "鲨鱼",
-	"api": "https://shayuapi.com/api.php/provide/vod/from/sym3u8/at/xml/",
-	"download": "",
-	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
-	"group": "",
-	"isActive": true,
-	"reverseOrder": false
+[{
+		"key": "lzm3u8",
+		"id": 1,
+		"name": "量子",
+		"api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+		"download": "",
+		"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+		"group": "",
+		"isActive": true,
+		"reverseOrder": false
 	},
 	{
-	"key": "guangsu",
-	"id": 8,
-	"name": "光速",
-	"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
-	"download": "",
-	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
-	"group": "",
-	"isActive": true,
-	"reverseOrder": false
+		"id": 2,
+		"key": "bttcj",
+		"name": "BT天堂",
+		"api": "http://bttcj.com/inc/sapi.php",
+		"download": "",
+		"jiexiUrl": "",
+		"group": "常用组",
+		"isActive": true,
+		"status": "可用",
+		"reverseOrder": false
+	},
+	{
+		"id": 3,
+		"key": "lb",
+		"name": "乐播",
+		"api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+		"download": "",
+		"jiexiUrl": "",
+		"group": "18禁",
+		"isActive": true,
+		"status": "可用",
+		"reverseOrder": false
+	},
+	{
+		"id": 4,
+		"key": "wmcj8",
+		"name": "环亚资源",
+		"api": "http://wmcj8.com/inc/sapi.php",
+		"download": "",
+		"jiexiUrl": "",
+		"group": "18禁",
+		"isActive": true,
+		"status": "可用",
+		"reverseOrder": false
+	},
+	{
+		"key": "wujin",
+		"id": 5,
+		"name": "无尽",
+		"api": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
+		"download": "",
+		"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+		"group": "",
+		"isActive": true,
+		"reverseOrder": false
+	},
+	{
+		"key": "jinying",
+		"id": 6,
+		"name": "金鹰",
+		"api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+		"download": "",
+		"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+		"group": "",
+		"isActive": true,
+		"reverseOrder": false
+	},
+	{
+		"key": "shayu",
+		"id": 7,
+		"name": "鲨鱼",
+		"api": "https://shayuapi.com/api.php/provide/vod/from/sym3u8/at/xml/",
+		"download": "",
+		"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+		"group": "",
+		"isActive": true,
+		"reverseOrder": false
+	},
+	{
+		"key": "guangsu",
+		"id": 8,
+		"name": "光速",
+		"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
+		"download": "",
+		"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+		"group": "",
+		"isActive": true,
+		"reverseOrder": false
+	},
+	{
+		"key": "huay",
+		"id": 9,
+		"name": "虎牙",
+		"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml/",
+		"download": "",
+		"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+		"group": "",
+		"isActive": true,
+		"reverseOrder": false
 	}
-	
 ]
