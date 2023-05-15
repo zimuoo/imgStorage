@@ -35,18 +35,6 @@
     "reverseOrder": false
   },
   {
-    "id": 4,
-    "key": "sy",
-    "name": "shayu",
-    "api": "https://shayuapi.com/api.php/Seacms/vod/",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "18禁",
-    "isActive": true,
-    "status": "可用",
-    "reverseOrder": false
-  },
-  {
     "id": 5,
     "key": "wmcj8",
     "name": "环亚资源",
@@ -83,7 +71,7 @@
 	{
 	"key": "shayu",
 	"id": 8,
-	"name": "金鹰",
+	"name": "鲨鱼",
 	"api": "https://shayuapi.com/api.php/provide/vod/from/sym3u8/at/xml/",
 	"download": "",
 	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
