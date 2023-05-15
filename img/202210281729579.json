@@ -68,5 +68,39 @@
 	"group": "",
 	"isActive": true,
 	"reverseOrder": false
-  }
+  },
+   {
+	"key": "jinying",
+	"id": 7,
+	"name": "金鹰",
+	"api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+	"download": "",
+	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+	"group": "",
+	"isActive": true,
+	"reverseOrder": false
+  },
+	{
+	"key": "shayu",
+	"id": 8,
+	"name": "金鹰",
+	"api": "https://shayuapi.com/api.php/provide/vod/from/sym3u8/at/xml/",
+	"download": "",
+	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+	"group": "",
+	"isActive": true,
+	"reverseOrder": false
+	},
+	{
+	"key": "guangsu",
+	"id": 9,
+	"name": "光速",
+	"api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
+	"download": "",
+	"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+	"group": "",
+	"isActive": true,
+	"reverseOrder": false
+	}
+	
 ]
