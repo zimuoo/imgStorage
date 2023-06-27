@@ -99,5 +99,28 @@
 		"group": "",
 		"isActive": true,
 		"reverseOrder": false
+	},
+	{
+		"key": "tantan",
+		"id": 10,
+		"name": "探探",
+		"api": "https://apittzy.com/api.php/provide/vod/from/ttm3u8/at/xml/",
+		"download": "",
+		"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+		"group": "",
+		"isActive": true,
+		"reverseOrder": false
+	},
+	{
+		"key": "semao",
+		"id": 11,
+		"name": "色猫",
+		"api": "https://caiji.semaozy.net/inc/api.php",
+		"download": "",
+		"jiexiUrl": "http://csdn.jcwle.com/jiexi/app.php?url=",
+		"group": "",
+		"isActive": true,
+		"reverseOrder": false
 	}
+	
 ]
