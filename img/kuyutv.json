@@ -548,18 +548,16 @@
     }
   ],
   "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="
-          ]
-        }
-      ]
-    }
-  ],
+{
+"name": "live",
+"type": 0,
+"url": "http://ftp6284928.host108.abeiyun.cn/live/live.txt",
+"playerType": 1,
+"ua": "okhttp/3.12.13",
+"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"
+}
+],
   "parses": [
     {
       "name": "Web聚合",
